@@ -40,11 +40,8 @@
 
 
 
-## Acknowledgments
+## `Acknowledgments and Contact Information`<br>
 - Deepankar Sharma
 - 233512013
+- 233512013@geu.ac.in
 
-
-
-## Contact Information
-For questions or feedback, contact [Deepankar] at [233512013@geu.ac.in]
