@@ -13,6 +13,10 @@
 | Sunday    |                                     |                                             |
 
 
+## `Quick-Links`<br>
+- [LMS-Portal](https://lms.geuonline.com/d2l/login)
+- [ERP](https://student.geu.ac.in/)
+
 ## `Assignments`<br>
 - [Assignment](/Assignments/)
 
@@ -33,3 +37,14 @@
 ## `Academic Calender`<br>
 
 ![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/ae9465df-2e5a-4096-9676-bd28399bb179)
+
+
+
+## Acknowledgments
+- Deepankar Sharma
+- 233512013
+
+
+
+## Contact Information
+For questions or feedback, contact [Deepankar] at [233512013@geu.ac.in]
