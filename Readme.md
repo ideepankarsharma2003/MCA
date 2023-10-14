@@ -2,7 +2,7 @@
 
 ## `Time Table`<br>
 
-| Day       | 5:00 PM - 6:00 PM                   | 6:00 PM - 7:00 PM                           |
+| **Day**   | **5:00 PM - 6:00 PM**               | **6:00 PM - 7:00 PM**                       |
 | --------- | ----------------------------------- | ------------------------------------------- |
 | Monday    | Programming and Problem Solving Lab | Operating Systems and Computer Networks Lab |
 | Tuesday   | Programming and Problem Solving Lab | Green Computing                             |
