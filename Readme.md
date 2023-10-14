@@ -24,14 +24,14 @@
 
 
 ## `Subjects`<br>
-- [OMC103-Programming-and-Problem-Solving]("OMC103%20Programming%20and%20Problem-Solving")
-- [OMC104-Advanced-Operating-Systems]("OMC104%20Advanced%20Operating%20Systems")
-- [OMC105B-Green-Computing]("OMC105B%20Green%20Computing")
-- [OMC105D-Cloud-Computing]("OMC105D%20Cloud%20Computing")
-- [OMC106C-Career-Skills-1]("OMC106C%20Career%20Skills%20-%2%201")
-- [OMC108-Full-Stack-Development-Laboratory]("OMC108%20Full%20Stack%20Development%20Laboratory")
-- [OMC109-Operating-Systems-and-Computer-Networks]("OMC109%20Operating%20Systems%20and%20Computer%20Networks")
-- [OMC110-Programming-and-Problem-Solving-Laboratory]("OMC110%20Programming%20and%20Problem-Solving%20Laboratory")
+- [OMC103-Programming-and-Problem-Solving](OMC103%20Programming%20and%20Problem-Solving)
+- [OMC104-Advanced-Operating-Systems](OMC104%20Advanced%20Operating%20Systems)
+- [OMC105B-Green-Computing](OMC105B%20Green%20Computing)
+- [OMC105D-Cloud-Computing](OMC105D%20Cloud%20Computing)
+- [OMC106C-Career-Skills-1](OMC106C%20Career%20Skills%20-%2%201)
+- [OMC108-Full-Stack-Development-Laboratory](OMC108%20Full%20Stack%20Development%20Laboratory)
+- [OMC109-Operating-Systems-and-Computer-Networks](OMC109%20Operating%20Systems%20and%20Computer%20Networks)
+- [OMC110-Programming-and-Problem-Solving-Laboratory](OMC110%20Programming%20and%20Problem-Solving%20Laboratory)
 
 
 ## `Academic Calender`<br>
