@@ -4,11 +4,11 @@
 
 | **Day**   | **5:00 PM - 6:00 PM**               | **6:00 PM - 7:00 PM**                       |
 | --------- | ----------------------------------- | ------------------------------------------- |
-| Monday    | Programming and Problem Solving Lab | Operating Systems and Computer Networks Lab |
+| Monday    | Programming and Problem Solving     | Operating Systems and Computer Networks Lab |
 | Tuesday   | Programming and Problem Solving Lab | Green Computing                             |
 | Wednesday | Computer Networks                   | Full Stack Development                      |
 | Thursday  | Full Stack Development Lab          | Cloud Computing                             |
-| Friday    | Advanced Operating System Lab       | Career Skills Lab                           |
+| Friday    | Advanced Operating System           | Career Skills-I                             |
 | Saturday  |                                     |                                             |
 | Sunday    |                                     |                                             |
 
