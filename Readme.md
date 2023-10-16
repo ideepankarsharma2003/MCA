@@ -2,15 +2,15 @@
 
 ## `Time Table`<br>
 
-| **Day**   | **5:00 PM - 6:00 PM**               | **6:00 PM - 7:00 PM**                       |
-| --------- | ----------------------------------- | ------------------------------------------- |
-| Monday    | Programming and Problem Solving     | Operating Systems and Computer Networks Lab |
-| Tuesday   | Programming and Problem Solving Lab | Green Computing                             |
-| Wednesday | Computer Networks                   | Full Stack Development                      |
-| Thursday  | Full Stack Development Lab          | Cloud Computing                             |
-| Friday    | Advanced Operating System           | Career Skills-I                             |
-| Saturday  |                                     |                                             |
-| Sunday    |                                     |                                             |
+| **Day**   | **5:00 PM - 6:00 PM**                                                   | **6:00 PM - 7:00 PM**                                                           |
+| --------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Monday    | Programming and Problem Solving     [here](https://tinyurl.com/2p9y264p)| Operating Systems and Computer Networks Lab [here](https://tinyurl.com/murcwyj8)|
+| Tuesday   | Programming and Problem Solving Lab [here](https://tinyurl.com/392d4cr9)| Green Computing                             [here](https://tinyurl.com/29duwbd5)|
+| Wednesday | Computer Networks                   [here](https://tinyurl.com/2hfxc335)| Full Stack Development                      [here](https://tinyurl.com/z879962n)|
+| Thursday  | Full Stack Development Lab          [here](https://tinyurl.com/4eeb5zsr)| Cloud Computing                             [here](https://tinyurl.com/2e37zweh)|
+| Friday    | Advanced Operating System           [here](https://tinyurl.com/msry9hvr)| Career Skills-I                             [here](https://tinyurl.com/384ue98v)|
+| Saturday  |                                                                         |                                                                                 |
+| Sunday    |                                                                         |                                                                                 |
 
 
 ## `Quick-Links`<br>
