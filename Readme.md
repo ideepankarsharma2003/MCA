@@ -47,21 +47,24 @@
 
 
 ## `Semester Overview`<br>
-<br>![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/531f166e-2afc-4208-9e97-bd53a314ceeb)
+![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/531f166e-2afc-4208-9e97-bd53a314ceeb)
 <br>
 <br>
 <br>
 
 
 
-## `Academic Calender`<br><br>
+## `Academic Calender`<br>
 
 ![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/ae9465df-2e5a-4096-9676-bd28399bb179)
 
 
 
 ## `Acknowledgments and Contact Information`<br>
-- Deepankar Sharma
-- 233512013
-- 233512013@geu.ac.in
+🚀 Author: 𝓓𝓮𝓮𝓹𝓪𝓷𝓴𝓪𝓻 𝓢𝓱𝓪𝓻𝓶𝓪
+🔍 ID: 233512013
+📧 Email: 233512013@geu.ac.in
+🌐 GitHub Repository: [𝕄ℂ𝔸](https://github.com/ideepankarsharma2003/MCA/)
+📅 Year: 2023
+
 
