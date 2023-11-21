@@ -49,10 +49,12 @@
 ## `Semester Overview`<br>
 <br>![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/531f166e-2afc-4208-9e97-bd53a314ceeb)
 <br>
+<br>
+<br>
 
 
 
-## `Academic Calender`<br>
+## `Academic Calender`<br><br>
 
 ![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/ae9465df-2e5a-4096-9676-bd28399bb179)
 
