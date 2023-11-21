@@ -61,10 +61,10 @@
 
 
 ## `Acknowledgments and Contact Information`<br>
-🚀 Author: 𝓓𝓮𝓮𝓹𝓪𝓷𝓴𝓪𝓻 𝓢𝓱𝓪𝓻𝓶𝓪
-🔍 ID: 233512013
-📧 Email: 233512013@geu.ac.in
-🌐 GitHub Repository: [𝕄ℂ𝔸](https://github.com/ideepankarsharma2003/MCA/)
-📅 Year: 2023
+- 🚀 Author: 𝓓𝓮𝓮𝓹𝓪𝓷𝓴𝓪𝓻 𝓢𝓱𝓪𝓻𝓶𝓪
+- 🔍 ID: 233512013
+- 📧 Email: 233512013@geu.ac.in
+- 🌐 GitHub Repository: [𝕄ℂ𝔸](https://github.com/ideepankarsharma2003/MCA/)
+- 📅 Year: 2023
 
 
