@@ -1,7 +1,6 @@
 # **MCA: semester 01**
 
-<br>![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/531f166e-2afc-4208-9e97-bd53a314ceeb)
-<br>
+
 <!-- Table Started -->
 ## `Time Table`<br>
 
@@ -44,6 +43,13 @@
 - [OMC109-Operating-Systems-and-Computer-Networks](/OMC109%20Operating%20Systems%20and%20Computer%20Networks/)
 - [OMC110-Programming-and-Problem-Solving-Laboratory](/OMC110%20Programming%20and%20Problem-Solving%20Laboratory/)
 - [OMC101-Full-Stack-Development](/OMC101%20Full%20Stack%20Development/)
+
+
+
+## `Semester Overview`<br>
+<br>![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/531f166e-2afc-4208-9e97-bd53a314ceeb)
+<br>
+
 
 
 ## `Academic Calender`<br>
