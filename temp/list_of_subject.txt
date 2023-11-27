@@ -6,3 +6,4 @@ OMC106C Career Skills - 1
 OMC108 Full Stack Development Laboratory
 OMC109 Operating Systems and Computer Networks 
 OMC110 Programming and Problem-Solving Laboratory
+OMC100C Mathematical Foundation of Computer Science

@@ -43,6 +43,7 @@
 - [OMC109-Operating-Systems-and-Computer-Networks](/OMC109%20Operating%20Systems%20and%20Computer%20Networks/)
 - [OMC110-Programming-and-Problem-Solving-Laboratory](/OMC110%20Programming%20and%20Problem-Solving%20Laboratory/)
 - [OMC101-Full-Stack-Development](/OMC101%20Full%20Stack%20Development/)
+- [OMC100C-Mathematical-Foundation-of-Computer-Science](<OMC100C Mathematical Foundation of Computer Science>)
 
 
 
