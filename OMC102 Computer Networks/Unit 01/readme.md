@@ -1,4 +1,9 @@
 # Unit 01
+
+![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/c57f6219-8e45-4dba-9031-b89ec12eb5f9)
+![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/f30865ce-8224-47d4-8acd-add38fdee4fe)
+![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/6d87414b-b98d-43bc-9169-4e531b150ce8)
+
 <br>
 
 
@@ -344,4 +349,3 @@ During data transmission, various types of delays can occur. Understanding these
    - **Minimizing Delays**: Network designers aim to minimize these delays to ensure efficient and responsive communication.
 
 Understanding these delays is crucial for network engineers and administrators when optimizing network performance and ensuring that data is transmitted efficiently and reliably. Different applications have varying tolerance for delays; for instance, real-time applications like video conferencing require low delay to provide a smooth user experience, while email can tolerate longer delays without issues.
-![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/d55f7b26-598a-4a5b-81be-bca541e660f2)
