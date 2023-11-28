@@ -9,6 +9,4 @@ NOTES<br>
 
 ## Case Study
 
-NOTES
-![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/bc7eeda5-a04d-47fd-bead-93b82406d7d4)
-
+![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/f4bd00df-5507-413d-b2fb-b26f56dc6de2)
