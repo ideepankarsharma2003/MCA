@@ -9,4 +9,4 @@ NOTES<br>
 
 ## Case Study
 
-![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/f4bd00df-5507-413d-b2fb-b26f56dc6de2)
+![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/cf5c8b14-128d-48e9-80e5-d33851e8d0cc)
