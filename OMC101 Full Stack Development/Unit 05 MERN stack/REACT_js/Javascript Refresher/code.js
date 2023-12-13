@@ -31,3 +31,30 @@ console.log(obj.func);
 
 
 
+
+// Arrow Functions
+let my_func=(number)=>{
+    console.log("The number is: " + this);
+}
+
+my_func(45); // The number is: [object Object]
+
+
+let obj_1= {
+            my_func:(number)=>{
+                console.log("The number is: " + this);
+            }   
+        }
+
+obj_1.my_func(67); // The number is: [object Object]
+
+
+setTimeout(()=>{
+    console.log("Timeout wali scrip");
+}, 3000); // 3000 ms
+console.log("Neeche wali script")
+/**
+ * 
+ * Neeche wali script
+ * Timeout wali scrip
+ */
