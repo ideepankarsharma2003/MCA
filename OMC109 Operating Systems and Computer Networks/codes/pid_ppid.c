@@ -23,3 +23,5 @@ int main(){
     }
     return 0;
 }
+
+// gcc codes/pid_ppid.c -o codes/output/pid_ppid.exe
