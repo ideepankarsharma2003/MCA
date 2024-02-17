@@ -1,0 +1,1 @@
+Ques B3. Design and develop a C program to read a text and count the number of alphabets, spaces, and digits.
