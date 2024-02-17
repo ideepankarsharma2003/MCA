@@ -23,10 +23,6 @@
 
 
 
-## `Quick-Links`<br>
-- [LMS-Portal](https://lms.geuonline.com/d2l/login)
-- [ERP](https://student.geu.ac.in/)
-
 ## `Assignments`<br>
 - [Assignment](/Assignments/)
 
@@ -62,14 +58,4 @@
 ## `End Term Date Sheet`<br>
 
 ![image](https://github.com/ideepankarsharma2003/MCA/assets/74599435/5b3f036f-2836-4895-bb8c-3a254fb7a26b)
-
-
-
-## `Acknowledgments and Contact Information`<br>
-- 🚀 Author: 𝓓𝓮𝓮𝓹𝓪𝓷𝓴𝓪𝓻 𝓢𝓱𝓪𝓻𝓶𝓪
-- 🔍 ID: 233512013
-- 📧 Email: 233512013@geu.ac.in
-- 🌐 GitHub Repository: [𝕄ℂ𝔸](https://github.com/ideepankarsharma2003/MCA/)
-- 📅 Year: 2023
-
 
