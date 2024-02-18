@@ -3,6 +3,12 @@ This repository contains my Post Graduation learning journey.
 
 
 ## `Semesters`<br>
+
+|Sr. No.          |      Semester    | link                       |
+|-----------------|------------------|----------------------------|
+|1.               | Semester 01      | [sem01](<Semester 01>)     |
+
+
 - [Semester 01](<Semester 01>)
 
 ## `Quick-Links`<br>
