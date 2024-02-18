@@ -9,8 +9,6 @@ This repository contains my Post Graduation learning journey.
 |1.               | Semester 01      | [sem01](<Semester 01>)     |
 
 
-- [Semester 01](<Semester 01>)
-
 ## `Quick-Links`<br>
 - [LMS-Portal](https://lms.geuonline.com/d2l/login)
 - [ERP](https://student.geu.ac.in/)
