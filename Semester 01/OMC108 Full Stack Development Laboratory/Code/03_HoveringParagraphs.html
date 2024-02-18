@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml/">
+<head>
+    <title>Paragraph Color Change</title>
+    <style>
+        #para1 {
+            color: red;
+        }
+        #para2 {
+            color: green;
+        }
+        #para3 {
+            color: black;
+        }
+    </style>
+    <script>
+        function changeColorToBlue(paraId) {
+            document.getElementById(paraId).style.color = 'blue';
+        }
+ 
+        function revertColor(paraId, originalColor) {
+            document.getElementById(paraId).style.color = originalColor;
+        }
+    </script>
+</head>
+<body>
+    <p id="para1" onmouseover="changeColorToBlue('para1')" onmouseout="revertColor('para1', 'red')">Paragraph 1 - Hover over me to change color to Blue!</p>
+    <p id="para2" onmouseover="changeColorToBlue('para2')" onmouseout="revertColor('para2', 'green')">Paragraph 2 - Hover over me to change color to Blue!</p>
+    <p id="para3" onmouseover="changeColorToBlue('para3')" onmouseout="revertColor('para3', 'black')">Paragraph 3 - Hover over me to change color to Blue!</p>
+</body>
+</html>
+ 
+ 
+ 
