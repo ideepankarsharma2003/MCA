@@ -1,15 +1,15 @@
-Subject_Code, Subject, Faculty, Day, Time, Link
-OMC200A, Introduction to Database Management Systems, Dr. Anupriya ,Wednesday ,4.00 PM to 5.00 PM, Click here
-OMC200B, Introduction to Object-Oriented Programming, Ms. Afsar Jahan ,Monday ,6.00 PM to 7.00 PM, Click here
-OMC201, Advanced Database Management Systems, Dr. Umesh Tiwari ,Friday ,6.00 PM to 7.00 PM, Click here
-OMC202, Advanced Java Programming, Ms. Vaishnavi T, Tuesday ,6.00 PM to 7.00 PM, Click here
-OMC203, Advanced Data Structures, Dr. Vaishali Kulkarni , Thursday ,5.00 PM to 6.00 PM, Click here
-OMC204A, Data Mining and Warehousing, Dr. Anupriya ,Wednesday ,6.00 PM to 7.00 PM, Click here
-OMC204B, Python Programming, Ms. Sreedevi R. Nagarmunoli ,Tuesday ,5.00 PM to 6.00 PM, Click here
-OMC204C, Software Project Management, Dr. Anupriya ,Thursday ,7.00 PM to 8.00 PM, Click here
-OMC204D, Probability and Statistics, Ms. Ganga Negi ,Wednesday ,7.00 PM to 8.00 PM, Click here
-OMC205, Entrepreneurship, Ms. Navya Bhat ,Wednesday ,5.00 PM to 6.00 PM, Click here
-OMC206, Career Skills, Mr. Gaurav Dobriyal ,Saturday ,5.00 PM to 6.00 PM, Click here
-OMC208, Advanced Database Management Systems Laboratory, Dr. Umesh Tiwari ,Saturday ,6.00 PM to 7.00 PM, Click here
-OMC209, Advanced Java Programming Laboratory, Ms. Vaishnavi T ,Thursday ,6.00 PM to 7.00 PM, Click here
-OMC210, Advanced Data Structures Laboratory, Dr. Vaishali Kulkarni ,Friday ,5.00 PM to 6.00 PM, Click here
+Subject_Code,Subject,Faculty,Day,Time,Link
+OMC200A,Introduction to Database Management Systems,Dr. Anupriya,Wednesday,4.00 PM to 5.00 PM,Click here
+OMC200B,Introduction to Object-Oriented Programming,Ms. Afsar Jahan,Monday,6.00 PM to 7.00 PM,Click here
+OMC201,Advanced Database Management Systems,Dr. Umesh Tiwari,Friday,6.00 PM to 7.00 PM,Click here
+OMC202,Advanced Java Programming,Ms. Vaishnavi T,Tuesday,6.00 PM to 7.00 PM,Click here
+OMC203,Advanced Data Structures,Dr. Vaishali Kulkarni,Thursday,5.00 PM to 6.00 PM,Click here
+OMC204A,Data Mining and Warehousing,Dr. Anupriya,Wednesday,6.00 PM to 7.00 PM,Click here
+OMC204B,Python Programming,Ms. Sreedevi R. Nagarmunoli,Tuesday,5.00 PM to 6.00 PM,Click here
+OMC204C,Software Project Management,Dr. Anupriya,Thursday,7.00 PM to 8.00 PM,Click here
+OMC204D,Probability and Statistics,Ms. Ganga Negi,Wednesday,7.00 PM to 8.00 PM,Click here
+OMC205,Entrepreneurship,Ms. Navya Bhat,Wednesday,5.00 PM to 6.00 PM,Click here
+OMC206,Career Skills,Mr. Gaurav Dobriyal,Saturday,5.00 PM to 6.00 PM,Click here
+OMC208,Advanced Database Management Systems Laboratory,Dr. Umesh Tiwari,Saturday,6.00 PM to 7.00 PM,Click here
+OMC209,Advanced Java Programming Laboratory,Ms. Vaishnavi T,Thursday,6.00 PM to 7.00 PM,Click here
+OMC210,Advanced Data Structures Laboratory,Dr. Vaishali Kulkarni,Friday,5.00 PM to 6.00 PM,Click here
