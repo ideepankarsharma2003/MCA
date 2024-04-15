@@ -7,6 +7,7 @@ This repository contains my Post Graduation learning journey.
 |Sr. No.          |      Semester    | link                       |
 |-----------------|------------------|----------------------------|
 |1.               | Semester 01      | [sem01](<Semester 01>)     |
+|1.               | Semester 02      | [sem02](<Semester 02>)     |
 
 
 ## `Quick-Links`<br>
