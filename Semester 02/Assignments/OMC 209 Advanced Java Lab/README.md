@@ -70,6 +70,7 @@ public class Practical_01_Employee {
 
     
 ```
+---
 ### 2. Demonstrate method and constructor overloading
 ```java
 public class Practical_02_MethodAndConstructorOverloading {
@@ -100,7 +101,7 @@ public class Practical_02_MethodAndConstructorOverloading {
 }
 
 ```
-
+---
 ### 3. Operations on a string
 ```java
 public class Practical_03_OperationsOnString {
@@ -126,7 +127,7 @@ public class Practical_03_OperationsOnString {
 ```
 
 
-
+---
 ### 4. Demonstrate inheritance
 ```java
 /**
@@ -162,7 +163,7 @@ public class Practical_04_Inheritance {
 
 ```
 
-
+---
 ### 5. Demonstrate method overriding
 ```java
 class Animal{
@@ -192,7 +193,7 @@ public class Practical_05_MethodOverriding {
 
 ```
 
-
+---
 ### 6. Use of Abstract class and Interfaces
 ```java
 interface Talkable{
@@ -261,7 +262,7 @@ public class Practical_06_AbstractClassesAndInterfaces {
 }
 ```
 
-
+---
 ### 7. Demonstrate exception handling
 ```java
 public class Practical_07_ExceptionHandling {
@@ -281,12 +282,15 @@ public class Practical_07_ExceptionHandling {
     }
 }
 ```
+---
 
 ### 8. Illustrate the use of I/O streams
 ```java
-import java.io.*;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
 
-public class IOStreamsDemo {
+public class Practical_08_IOStreams {
     public static void main(String[] args) throws IOException {
         // Writing to a file
         FileOutputStream fileOut = new FileOutputStream("test.txt");
@@ -304,6 +308,7 @@ public class IOStreamsDemo {
         fileIn.close();
     }
 }
+
 ```
 
 ### 9. Java Servlet for dynamic HTML

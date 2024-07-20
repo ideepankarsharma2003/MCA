@@ -1,0 +1,53 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+ <!-- deployment descriptor -->
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+    <servlet-name>s1</servlet-name>
+    <servlet-class>DemoServlet</servlet-class>
+  </servlet>
+  <servlet>         
+    <servlet-name>practical09</servlet-name>
+    <servlet-class>Practical_09_JavaServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>practical10_FetchServlet</servlet-name>
+    <servlet-class>Practical_10_FetchCookieServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>practical10_SetServlet</servlet-name>
+    <servlet-class>Practical_10_SetCookieServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>practical11_GetPostServlet</servlet-name>
+    <servlet-class>Practical_11_GetPostServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>s1</servlet-name>
+    <url-pattern>/display</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>practical09</servlet-name>
+    <url-pattern>/practical_09</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>practical10_FetchServlet</servlet-name>
+    <url-pattern>/FetchCookieServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>practical10_SetServlet</servlet-name>
+    <url-pattern>/SetCookieServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>practical11_GetPostServlet</servlet-name>
+    <url-pattern>/GetPostServlet</url-pattern>
+  </servlet-mapping>
+  <session-config>
+    <session-timeout>
+    30
+    </session-timeout>
+    </session-config>
+</web-app>
