@@ -25,14 +25,18 @@ Use “this” keyword to illustrate the difference between instance variable an
 
 ### 1. Create a Java class “Employee”
 ```java
-public class Employee {
+/**
+ * Practical_01_Employee
+ */
+public class Practical_01_Employee {
+
     private int employeeNumber;
     private String name;
     private String designation;
     private double salary;
 
     // Parameterized constructor
-    public Employee(int employeeNumber, String name, String designation, double salary) {
+    public Practical_01_Employee(int employeeNumber, String name, String designation, double salary) {
         this.employeeNumber = employeeNumber;
         this.name = name;
         this.designation = designation;
@@ -53,143 +57,226 @@ public class Employee {
         System.out.println("Designation: " + designation);
         System.out.println("Salary: $" + salary);
     }
-}
-```
 
+    public static void main(String[] args) {
+        Practical_01_Employee employee= new  Practical_01_Employee(
+            1, "Bruce Wayne", "Batman", 1000000000.99
+        );
+        employee.displayEmployeeDetails();
+    }
+
+
+}
+
+    
+```
 ### 2. Demonstrate method and constructor overloading
 ```java
-public class OverloadDemo {
-    // Constructor overloading
-    public OverloadDemo() {
-        System.out.println("Default Constructor");
+public class Practical_02_MethodAndConstructorOverloading {
+
+    public Practical_02_MethodAndConstructorOverloading() {
+        System.out.println("This is the default constructor.");
+    }
+    public Practical_02_MethodAndConstructorOverloading(String string){
+        System.out.println("This is the overloaded constructor with argument "+ string);
     }
 
-    public OverloadDemo(String name) {
-        System.out.println("Constructor with one argument: " + name);
+    public void printFunction(int  x){
+        System.out.println("The integer is: "+ x);
+    }
+    public  void  printFunction (String s){
+        System.out.println("The string is: "+ s);
     }
 
-    // Method overloading
-    void demo(int a) {
-        System.out.println("a: " + a);
-    }
+    public static void main(String[] args) {
+        Practical_02_MethodAndConstructorOverloading obj1= new Practical_02_MethodAndConstructorOverloading();
+        obj1= new  Practical_02_MethodAndConstructorOverloading("Dummy String");
 
-    void demo(int a, int b) {
-        System.out.println("a and b: " + a + "," + b);
-    }
+        obj1.printFunction(3);
+        obj1.printFunction("Dummy string");
 
-    double demo(double a) {
-        return a*a;
     }
+    
 }
+
 ```
 
 ### 3. Operations on a string
 ```java
-public class StringOperations {
-    public void performOperations(String input) {
-        countCharactersAndDigits(input);
-        checkPalindrome(input);
+public class Practical_03_OperationsOnString {
+    public static  void  charDigitCount(String s){
+        int char_count= 0;
+        int digits= 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i)>=48 && s.charAt(i)<=57) digits++;
+            else char_count++;
+        }
+
+        System.out.println("Length of the given string: "+ s.length());
+        System.out.println("Total number of non-digit characters in the string are: "+ char_count);
+        System.out.println("Total number of digit characters in the string are: "+ digits);
     }
 
-    private void countCharactersAndDigits(String input) {
-        int letters = 0, digits = 0;
-        for (char c : input.toCharArray()) {
-            if (Character.isLetter(c)) {
-                letters++;
-            } else if (Character.isDigit(c)) {
-                digits++;
-            }
-        }
-        System.out.println("Letters: " + letters + ", Digits: " + digits);
-    }
-
-    private void checkPalindrome(String input) {
-        String reverse = new StringBuilder(input).reverse().toString();
-        if (input.equals(reverse)) {
-            System.out.println(input + " is a palindrome.");
-        } else {
-            System.out.println(input + " is not a palindrome.");
-        }
+    public static void main(String[] args) {
+        Practical_03_OperationsOnString.charDigitCount("The Amazing Spiderman 3");
     }
 }
+
 ```
+
+
 
 ### 4. Demonstrate inheritance
 ```java
-class Base {
-    Base() {
-        System.out.println("Base Constructor");
+/**
+ * InnerPractical_04_Inheritance
+ */
+class Base{
+    Base(){
+        System.out.println("Base Class Constructor.");
     }
 }
 
-class Derived extends Base {
-    Derived() {
-        System.out.println("Derived Constructor");
+class LevelOneChild extends  Base{
+
+    public LevelOneChild() {
+    System.out.println("Level 1 child Constructor.");
+    }
+    
+}
+
+class LevelTwoChild extends  LevelOneChild{
+
+    public LevelTwoChild() {
+    System.out.println("Level 2 child Constructor.");
+    }
+    
+}
+
+public class Practical_04_Inheritance {
+    public static void main(String[] args) {
+       LevelTwoChild obj= new LevelTwoChild();
     }
 }
 
-class DerivedLevelTwo extends Derived {
-    DerivedLevelTwo() {
-        System.out.println("Derived Level Two Constructor");
-    }
-}
 ```
+
 
 ### 5. Demonstrate method overriding
 ```java
-class Animal {
-    void speak() {
-        System.out.println("The animal makes a sound");
+class Animal{
+
+    public void speak() {
+    System.out.println("The animal makes a sound.");
+    }
+    
+}
+class Dog extends  Animal{
+
+    public void speak() {
+    System.out.println("The dog barks.");
+    }
+    
+}
+
+
+public class Practical_05_MethodOverriding {
+    public static void main(String[] args) {
+        Animal animal= new Animal();
+        Dog dog= new Dog();
+        animal.speak();
+        dog.speak();
     }
 }
 
-class Dog extends Animal {
-    @Override
-    void speak() {
-        System.out.println("The dog barks");
-    }
-}
 ```
+
 
 ### 6. Use of Abstract class and Interfaces
 ```java
-// Abstract class
-abstract class Shape {
-    abstract void draw();
+interface Talkable{
+    public void talk();
 }
 
-class Rectangle extends Shape {
+abstract class Animal{
+    String name;
+    public Animal(String name) {
+        this.name= name;
+        System.out.println("This is a "+ name+ ", an Animal.");
+    }
+    
+    abstract void move();
+}
+
+abstract class Reptile{
+    String name;
+    public Reptile(String name) {
+        this.name= name;
+        System.out.println("This is a "+ name+ ", a Reptile.");
+    }
+    
+    abstract void crawl();
+}
+
+
+class Snake extends Reptile implements  Talkable{
+    public  Snake(String name){
+        super(name);
+    }
     @Override
-    void draw() {
-        System.out.println("Drawing a rectangle");
+    public void talk(){
+        System.out.println(this.name+ " hisses.");
+    }
+    @Override
+    public  void  crawl(){
+        System.out.println(this.name+ " crawls. ");
     }
 }
 
-// Interface
-interface AnimalInterface {
-    void eat();
+class Cat extends Animal implements  Talkable{
+    public  Cat(String name){
+        super(name);
+    }
+    @Override
+    public void talk(){
+        System.out.println(this.name+ " meows.");
+    }
+    @Override
+    public  void  move(){
+        System.err.println(this.name+ " moves.");
+    }
 }
 
-class Cat implements AnimalInterface {
-    public void eat() {
-        System.out.println("Cat eats");
+
+public class Practical_06_AbstractClassesAndInterfaces {
+    public static void main(String[] args) {
+        Snake snake= new Snake("Kaala Naag");
+        Cat cat= new  Cat("Persian Tommy");
+        cat.move();
+        snake.crawl();
+        snake.talk();
+        cat.talk();
     }
 }
 ```
 
+
 ### 7. Demonstrate exception handling
 ```java
-public class ExceptionDemo {
-    void execute() {
+public class Practical_07_ExceptionHandling {
+    public static void main(String[] args) {
         try {
             int[] arr = new int[5];
             arr[5] = 30 / 0;
         } catch (ArithmeticException e) {
-            System.out.println("Arithmetic Exception caught");
+            System.out.println(String.format("Exception occured: [[ %s ]]", e));
+            System.out.println("`Arithmetic Exception` caught.");
         } catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println("Array Index Out Of Bounds Exception caught");
+            System.out.println(String.format("Exception occured: [[ %s ]]", e));
+            System.out.println("`Array Index Out Of Bounds Exception` caught.");
         } finally {
-            System.out.println("finally block executed");
+            System.out.println("`finally` block executed.");
         }
     }
 }
