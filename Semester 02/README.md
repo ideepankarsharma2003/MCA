@@ -43,3 +43,4 @@
 - [OMC208 Advanced Database Management Systems Laboratory](<OMC208 Advanced Database Management Systems Laboratory>)
 - [OMC209 Advanced Java Programming Laboratory](<OMC209 Advanced Java Programming Laboratory>)
 - [OMC210 Advanced Data Structures Laboratory](<OMC210 Advanced Data Structures Laboratory>)
+- [OMC 207 Mini Project](<OMC 207 Mini Project>)
