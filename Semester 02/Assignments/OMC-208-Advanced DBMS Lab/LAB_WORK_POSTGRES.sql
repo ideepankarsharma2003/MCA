@@ -182,7 +182,8 @@ VALUES
 -- P07975	    Keys	    5	            Piece	        10	        3	            1050	    1000
 -- P08865	    2GBRAM	    5	            Piece	        2	        3	            1050	    1000
 
-INSERT INTO Product_master (Product_no, Description, Profit_percent, Unit_measure, Qty_on_hand, Reorder_lvl, Sell_price, Cost_price)
+INSERT INTO Product_master 
+(Product_no, Description, Profit_percent, Unit_measure, Qty_on_hand, Reorder_lvl, Sell_price, Cost_price)
 VALUES 
 ( 'P00001',	    'Floppy',       5,      'Piece',	        100,	    20,	            525,	    500),
 ( 'P03453',	    'Monitors',     6,      'Piece',	        10,	        3,	            12000,	    11280),
@@ -207,7 +208,8 @@ VALUES
 -- S3	                Ravi	        P-7	    Bandra	    Mumbai	140003	Maharashtra	    3000	    200	            100	        Good
 -- S4	                Ashish	        A/5	    Juhu	    Mumbai	140004	Maharashtra	    3500	    200	            150	        Good
 
-INSERT INTO Salesman_master (Salesman_no, Salesman_name, Address1, Address2, City, Pincode, State, Sal_amt, Target_to_get, Yesterday_sales, remarks)
+INSERT INTO Salesman_master 
+(Salesman_no, Salesman_name, Address1, Address2, City, Pincode, State, Sal_amt, Target_to_get, Yesterday_sales, remarks)
 VALUES 
     ('S1', 'Kiran', 'A/14', 'Worli', 'Mumbai', '140001', 'Maharashtra', 3000, 100, 50, 'Good'),
     ('S2', 'Manish', '65', 'Nariman', 'Mumbai', '140002', 'Maharashtra', 3000, 200, 100, 'Good'),
@@ -384,7 +386,7 @@ SELECT p.Product_no, p.Description, sod.Quantity_order, TO_CHAR(so.Dely_date, 'M
 FROM Product_master p
 JOIN Sales_order_details sod ON p.Product_no = sod.Product_no
 JOIN Sales_order so ON so.Order_no = sod.Order_no
--- WHERE TO_CHAR(so.Dely_date, 'Month') = TO_CHAR(CURRENT_DATE, 'Month')
+WHERE TO_CHAR(so.Dely_date, 'Month') = TO_CHAR(CURRENT_DATE, 'Month')
 ;
 
 
