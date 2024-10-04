@@ -3,7 +3,7 @@
 
 ## `Time Table`<br>
 
-                                                                                
+                                                                                   |                                                                                        |                                                                                     |                                                                            |
 
 ## `Assignments`<br>
 - [Assignment](<Assignments>)
@@ -13,12 +13,17 @@
 
 ## `Subjects`<br>
 
-- [OMC301July23 Design and Analysis of Algorithms](<OMC301July23 Design and Analysis of Algorithms>)
-- [OMC302July23 Mobile Application Development](<OMC302July23 Mobile Application Development>)
-- [OMC303July23 Artificial Intelligence and Machine Learning](<OMC303July23 Artificial Intelligence and Machine Learning>)
-- [OMC304AJuly23 Software Testing and Quality Assurance](<OMC304AJuly23 Software Testing and Quality Assurance>)
-- [OMC305July23 Career Skills](<OMC305July23 Career Skills>)
-- [OMC306July23 Mini Project](<OMC306July23 Mini Project>)
-- [OMC307July23 Design and Analysis of Algorithms Laboratory](<OMC307July23 Design and Analysis of Algorithms Laboratory>)
-- [OMC308July23 Mobile Application Development Laboratory](<OMC308July23 Mobile Application Development Laboratory>)
-- [OMC309July23 Artificial Intelligence and Machine Learning Laboratory](<OMC309July23 Artificial Intelligence and Machine Learning Laboratory>)
+- [OMC300A Competitive Programming (Audit)](<OMC300A Competitive Programming (Audit)>)
+- [OMC300B Introduction to Software Engineering (Bridge)](<OMC300B Introduction to Software Engineering (Bridge)>)
+- [OMC301 Design and Analysis of Algorithms](<OMC301 Design and Analysis of Algorithms>)
+- [OMC302 Mobile Application Development](<OMC302 Mobile Application Development>)
+- [OMC303 Artificial Intelligence and Machine Learning](<OMC303 Artificial Intelligence and Machine Learning>)
+- [OMC304A Software Testing and Quality Assurance](<OMC304A Software Testing and Quality Assurance>)
+- [OMC304B Human-Computer Interaction](<OMC304B Human-Computer Interaction>)
+- [OMC304C Theory of Computation and Compiler Construction](<OMC304C Theory of Computation and Compiler Construction>)
+- [OMC304D Operations Research](<OMC304D Operations Research>)
+- [OMC305 Career Skills](<OMC305 Career Skills>)
+- [OMC306 Mini Project/Research Seminar](<OMC306 Mini Project/Research Seminar>)
+- [OMC307 Design and Analysis of Algorithms Laboratory](<OMC307 Design and Analysis of Algorithms Laboratory>)
+- [OMC308 Mobile Application Development Laboratory](<OMC308 Mobile Application Development Laboratory>)
+- [OMC309 Artificial Intelligence and Machine Learning Laboratory](<OMC309 Artificial Intelligence and Machine Learning Laboratory>)
