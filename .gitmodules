@@ -1,3 +1,6 @@
 [submodule "Semester 02/OMC 207 Mini Project/TailoredCVforJobs"]
 	path = Semester 02/OMC 207 Mini Project/TailoredCVforJobs
 	url = https://github.com/ideepankarsharma2003/TailoredCVforJobs.git
+[submodule "Semester 03/OMC308 Mobile Application Development Laboratory/AssignmentApp"]
+	path = Semester 03/OMC308 Mobile Application Development Laboratory/AssignmentApp
+	url = https://github.com/ideepankarsharma2003/Android-Assignment-MCA-sem03.git
