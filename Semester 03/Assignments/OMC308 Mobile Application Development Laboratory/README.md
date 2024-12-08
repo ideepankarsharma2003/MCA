@@ -1,0 +1,1 @@
+The project folder of the app is here: [AssignmentApp](<../../OMC308 Mobile Application Development Laboratory/AssignmentApp>)
