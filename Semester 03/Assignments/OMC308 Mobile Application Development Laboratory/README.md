@@ -1,1 +1,1 @@
-The project folder of the app is here: [AssignmentApp](<../../OMC308 Mobile Application Development Laboratory/AssignmentApp>)
+The project folder of the app is here: [AssignmentApp](https://github.com/ideepankarsharma2003/Android-Assignment-MCA-sem03.git)
