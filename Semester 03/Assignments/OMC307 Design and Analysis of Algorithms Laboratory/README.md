@@ -121,7 +121,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/8b4f03a7-0ee5-4206-9fed-16ec1c5d987e)|![image](https://github.com/user-attachments/assets/cab5bf6a-7f74-43f1-82c8-4bfd532246bd)|![image](https://github.com/user-attachments/assets/e4cce7bc-1b9d-4a21-b312-d7168c125918)|
 
 ---
 
