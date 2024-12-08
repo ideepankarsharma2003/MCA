@@ -25,7 +25,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/50272d4d-6f4b-4db0-9ab8-0cef3ce79830)|![image](https://github.com/user-attachments/assets/fdd736ac-ae0a-404f-ab59-1d263f5dbbcc)|![image](https://github.com/user-attachments/assets/671e9acd-6a63-4394-bd8e-5db47cb405e2)|
 
 
 ---
