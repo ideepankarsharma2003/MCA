@@ -57,7 +57,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/14d446dd-949e-4347-a657-6ba8f3a7a96a)|![image](https://github.com/user-attachments/assets/29cdadb4-b849-43cb-b24f-3d7b869774c0)|![image](https://github.com/user-attachments/assets/c5798791-141b-4680-822d-2269e555eb02)|
 
 ---
 
