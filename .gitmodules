@@ -4,3 +4,6 @@
 [submodule "Semester 03/OMC308 Mobile Application Development Laboratory/AssignmentApp"]
 	path = Semester 03/OMC308 Mobile Application Development Laboratory/AssignmentApp
 	url = https://github.com/ideepankarsharma2003/Android-Assignment-MCA-sem03.git
+[submodule "Semester 03/OMC306 Mini Project/AtsCheckerNLP"]
+	path = Semester 03/OMC306 Mini Project/AtsCheckerNLP
+	url = https://github.com/ideepankarsharma2003/AtsCheckerNLP.git

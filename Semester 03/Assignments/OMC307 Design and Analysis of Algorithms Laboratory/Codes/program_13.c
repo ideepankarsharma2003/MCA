@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-#define N 8
+#define N 10
 
 bool isSafe(int board[N][N], int row, int col) {
     for (int i = 0; i < col; i++)
@@ -39,6 +39,7 @@ void printSolution(int board[N][N]) {
 }
 
 int main() {
+    printf("N-Queens(N=%d)\n\n", N);
     int board[N][N] = {0};
     if (solveNQUtil(board, 0))
         printSolution(board);
