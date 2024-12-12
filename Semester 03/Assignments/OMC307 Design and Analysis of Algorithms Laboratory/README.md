@@ -25,7 +25,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/50272d4d-6f4b-4db0-9ab8-0cef3ce79830)|![image](https://github.com/user-attachments/assets/fdd736ac-ae0a-404f-ab59-1d263f5dbbcc)|![image](https://github.com/user-attachments/assets/671e9acd-6a63-4394-bd8e-5db47cb405e2)|
 
 
 ---
@@ -57,7 +57,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/14d446dd-949e-4347-a657-6ba8f3a7a96a)|![image](https://github.com/user-attachments/assets/29cdadb4-b849-43cb-b24f-3d7b869774c0)|![image](https://github.com/user-attachments/assets/c5798791-141b-4680-822d-2269e555eb02)|
 
 ---
 
@@ -121,7 +121,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/8b4f03a7-0ee5-4206-9fed-16ec1c5d987e)|![image](https://github.com/user-attachments/assets/cab5bf6a-7f74-43f1-82c8-4bfd532246bd)|![image](https://github.com/user-attachments/assets/e4cce7bc-1b9d-4a21-b312-d7168c125918)|
 
 ---
 
@@ -184,7 +184,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/f9a59495-6bd6-463d-b61f-e22542cb0d69)|![image](https://github.com/user-attachments/assets/3401564f-5772-4bb8-9a6a-897f34ddba2c)|![image](https://github.com/user-attachments/assets/cdc89a71-94fd-4b6f-8322-b9170d582d33)|
 
 ---
 
@@ -253,7 +253,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/afc69b95-9acd-4823-a8dc-7a088c78456a)|![image](https://github.com/user-attachments/assets/c7df8704-489d-4222-8411-802ebdeffba6)|![image](https://github.com/user-attachments/assets/a46c5cab-98a6-4b83-b020-10f5f1e12e3f)|
 
 
 ---
@@ -727,6 +727,6 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/d86c2163-18af-4aca-ad9f-541075d59f31)|![image](https://github.com/user-attachments/assets/606dbaa6-47d4-4645-a164-c123a0314800)|![image](https://github.com/user-attachments/assets/62f57214-7da1-4706-8831-50335b8690b0)|
 
 ---
