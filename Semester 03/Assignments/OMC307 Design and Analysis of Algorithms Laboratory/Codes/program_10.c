@@ -34,3 +34,83 @@ int main() {
     knapsack(W, wt, val, n);
     return 0;
 }
+
+/**
+ * @test1
+ *
+ * Input:
+ *    Number of items: 3  
+ *    Capacity of knapsack: 50  
+ *    Weights and values of items:  
+ *    10 60  
+ *    20 100  
+ *    30 120  
+ *
+ * Expected Output:
+ *    Maximum value in Knapsack = 220  
+ */
+
+/**
+ * @test2
+ *
+ * Input:
+ *    Number of items: 4  
+ *    Capacity of knapsack: 10  
+ *    Weights and values of items:  
+ *    1 10  
+ *    2 15  
+ *    3 40  
+ *    4 50  
+ *
+ * Expected Output:
+ *    Maximum value in Knapsack = 65  
+ */
+
+/**
+ * @test3
+ *
+ * Input:
+ *    Number of items: 5  
+ *    Capacity of knapsack: 7  
+ *    Weights and values of items:  
+ *    1 1  
+ *    3 4  
+ *    4 5  
+ *    5 7  
+ *    6 10  
+ *
+ * Expected Output:
+ *    Maximum value in Knapsack = 9  
+ */
+
+/**
+ * @test4
+ *
+ * Input:
+ *    Number of items: 2  
+ *    Capacity of knapsack: 5  
+ *    Weights and values of items:  
+ *    10 50  
+ *    20 100  
+ *
+ * Expected Output:
+ *    Maximum value in Knapsack = 0  
+ */
+
+/**
+ * @test5
+ *
+ * Input:
+ *    Number of items: 6  
+ *    Capacity of knapsack: 15  
+ *    Weights and values of items:  
+ *    5 10  
+ *    4 40  
+ *    6 30  
+ *    3 50  
+ *    2 60  
+ *    1 90  
+ *
+ * Expected Output:
+ *    Maximum value in Knapsack = 220  
+ */

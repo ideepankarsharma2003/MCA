@@ -49,3 +49,90 @@ int main() {
     prims(graph, vertices);
     return 0;
 }
+
+
+/**
+ * @test1
+ *
+ * Input:
+ *    Number of vertices: 5
+ *    Adjacency matrix:
+ *    0   2   0   6   0
+ *    2   0   3   8   5
+ *    0   3   0   0   7
+ *    6   8   0   0   9
+ *    0   5   7   9   0
+ *
+ * Expected Output:
+ *    Edges in Minimum Spanning Tree:
+ *    Edge (0, 1) with weight 2
+ *    Edge (1, 2) with weight 3
+ *    Edge (0, 3) with weight 6
+ *    Edge (1, 4) with weight 5
+ */
+
+/**
+ * @test2
+ *
+ * Input:
+ *    Number of vertices: 4
+ *    Adjacency matrix:
+ *    0   10  6   5
+ *    10  0   0   15
+ *    6   0   0   4
+ *    5   15  4   0
+ *
+ * Expected Output:
+ *    Edges in Minimum Spanning Tree:
+ *    Edge (0, 3) with weight 5
+ *    Edge (3, 2) with weight 4
+ *    Edge (0, 1) with weight 10
+ */
+
+/**
+ * @test3
+ *
+ * Input:
+ *    Number of vertices: 3
+ *    Adjacency matrix:
+ *    0   1   3
+ *    1   0   2
+ *    3   2   0
+ *
+ * Expected Output:
+ *    Edges in Minimum Spanning Tree:
+ *    Edge (0, 1) with weight 1
+ *    Edge (1, 2) with weight 2
+ */
+
+/**
+ * @test4
+ *
+ * Input:
+ *    Number of vertices: 4
+ *    Adjacency matrix:
+ *    0   99999   3   99999
+ *    99999   0   99999   7
+ *    3   99999   0   4
+ *    99999   7   4   0
+ *
+ * Expected Output:
+ *    Edges in Minimum Spanning Tree:
+ *    Edge (0, 2) with weight 3
+ *    Edge (2, 3) with weight 4
+ *    Edge (3, 1) with weight 7
+ */
+
+/**
+ * @test5
+ *
+ * Input:
+ *    Number of vertices: 2
+ *    Adjacency matrix:
+ *    0   1
+ *    1   0
+ *
+ * Expected Output:
+ *    Edges in Minimum Spanning Tree:
+ *    Edge (0, 1) with weight 1
+ */

@@ -44,3 +44,96 @@ int main() {
     floydWarshall(graph, vertices);
     return 0;
 }
+
+
+
+/**
+ * @test1
+ *
+ * Input:
+ *    Number of vertices: 4
+ *    Adjacency matrix:
+ *    0    5   99999 10
+ *    99999 0   3   99999
+ *    99999 99999 0   1
+ *    99999 99999 99999 0
+ *
+ * Expected Output:
+ *    All-Pairs Shortest Paths:
+ *    0 5 8 9
+ *    INF 0 3 4
+ *    INF INF 0 1
+ *    INF INF INF 0
+ */
+
+/**
+ * @test2
+ *
+ * Input:
+ *    Number of vertices: 3
+ *    Adjacency matrix:
+ *    0   1 99999
+ *    99999 0 1
+ *    1 99999 0
+ *
+ * Expected Output:
+ *    All-Pairs Shortest Paths:
+ *    0 1 2
+ *    2 0 1
+ *    1 2 0
+ */
+
+/**
+ * @test3
+ *
+ * Input:
+ *    Number of vertices: 5
+ *    Adjacency matrix:
+ *    0   3  99999 7  99999
+ *    99999 0  1  99999 99999
+ *    99999 99999 0  2  99999
+ *    99999 99999 99999 0  1
+ *    6   99999 99999 99999 0
+ *
+ * Expected Output:
+ *    All-Pairs Shortest Paths:
+ *    0 3 4 6 7
+ *    INF 0 1 3 4
+ *    INF INF 0 2 3
+ *    INF INF INF 0 1
+ *    6 9 10 12 0
+ */
+
+/**
+ * @test4
+ *
+ * Input:
+ *    Number of vertices: 2
+ *    Adjacency matrix:
+ *    0 99999
+ *    99999 0
+ *
+ * Expected Output:
+ *    All-Pairs Shortest Paths:
+ *    0 INF
+ *    INF 0
+ */
+
+/**
+ * @test5
+ *
+ * Input:
+ *    Number of vertices: 4
+ *    Adjacency matrix:
+ *    0   2 99999 99999
+ *    99999 0   1   99999
+ *    99999 99999 0   3
+ *    1 99999 99999 0
+ *
+ * Expected Output:
+ *    All-Pairs Shortest Paths:
+ *    0 2 3 6
+ *    INF 0 1 4
+ *    INF INF 0 3
+ *    1 3 4 0
+ */

@@ -38,3 +38,77 @@ int main() {
     subsetSum(arr, subset, n, 0, 0, targetSum);
     return 0;
 }
+
+
+/**
+ * @test1
+ *
+ * Input:
+ *    Number of elements: 5  
+ *    Elements:  
+ *    1 2 3 4 5  
+ *    Target sum: 5
+ *
+ * Expected Output:
+ *    Subsets with target sum:  
+ *    2 3  
+ *    1 4  
+ *    5  
+ */
+
+/**
+ * @test2
+ *
+ * Input:
+ *    Number of elements: 4  
+ *    Elements:  
+ *    1 3 6 8  
+ *    Target sum: 20
+ *
+ * Expected Output:
+ *    Subsets with target sum:  
+ *    (No output, as no subset matches the target sum.)  
+ */
+
+/**
+ * @test3
+ *
+ * Input:
+ *    Number of elements: 6  
+ *    Elements:  
+ *    10 15 20 25 5 30  
+ *    Target sum: 5
+ *
+ * Expected Output:
+ *    Subsets with target sum:  
+ *    5  
+ */
+
+/**
+ * @test4
+ *
+ * Input:
+ *    Number of elements: 3  
+ *    Elements:  
+ *    2 2 2  
+ *    Target sum: 6
+ *
+ * Expected Output:
+ *    Subsets with target sum:  
+ *    2 2 2  
+ */
+
+/**
+ * @test5
+ *
+ * Input:
+ *    Number of elements: 4  
+ *    Elements:  
+ *    1 2 3 4  
+ *    Target sum: 6
+ *
+ * Expected Output:
+ *    Subsets with target sum:  
+ *    1 2 3  
+ *    2 4  
+ */

@@ -53,3 +53,107 @@ int main() {
     dijkstra(graph, src, vertices);
     return 0;
 }
+
+/**
+ * @test1
+ *
+ * Input:
+ *    Number of vertices: 5
+ *    Adjacency matrix:
+ *    0   10  0   0   5
+ *    0   0   1   0   2
+ *    0   0   0   4   0
+ *    7   0   6   0   0
+ *    0   3   9   2   0
+ *    Source vertex: 0
+ *
+ * Expected Output:
+ *    Vertex      Distance from Source 0
+ *    0           0
+ *    1           8
+ *    2           9
+ *    3           7
+ *    4           5
+ */
+
+/**
+ * @test2
+ *
+ * Input:
+ *    Number of vertices: 4
+ *    Adjacency matrix:
+ *    0   1   4   0
+ *    0   0   4   2
+ *    0   0   0   3
+ *    0   0   0   0
+ *    Source vertex: 0
+ *
+ * Expected Output:
+ *    Vertex      Distance from Source 0
+ *    0           0
+ *    1           1
+ *    2           4
+ *    3           3
+ */
+
+/**
+ * @test3
+ *
+ * Input:
+ *    Number of vertices: 3
+ *    Adjacency matrix:
+ *    0   0   0
+ *    0   0   0
+ *    0   0   0
+ *    Source vertex: 0
+ *
+ * Expected Output:
+ *    Vertex      Distance from Source 0
+ *    0           0
+ *    1           2147483647
+ *    2           2147483647
+ */
+
+/**
+ * @test4
+ *
+ * Input:
+ *    Number of vertices: 6
+ *    Adjacency matrix:
+ *    0   2   0   1   0   0
+ *    0   0   3   2   0   0
+ *    0   0   0   0   2   3
+ *    0   0   0   0   1   0
+ *    0   0   0   0   0   1
+ *    0   0   0   0   0   0
+ *    Source vertex: 0
+ *
+ * Expected Output:
+ *    Vertex      Distance from Source 0
+ *    0           0
+ *    1           2
+ *    2           5
+ *    3           1
+ *    4           2
+ *    5           3
+ */
+
+/**
+ * @test5
+ *
+ * Input:
+ *    Number of vertices: 4
+ *    Adjacency matrix:
+ *    0   5   99999   10
+ *    99999   0   3   99999
+ *    99999   99999   0   1
+ *    99999   99999   99999   0
+ *    Source vertex: 0
+ *
+ * Expected Output:
+ *    Vertex      Distance from Source 0
+ *    0           0
+ *    1           5
+ *    2           8
+ *    3           9
+ */
