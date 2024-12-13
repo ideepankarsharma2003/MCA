@@ -668,7 +668,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/6d43a724-b4ad-440c-bc89-6fc38d6240d8)|![image](https://github.com/user-attachments/assets/e00beaa7-e3f9-43e0-84c7-a670764f4daf)|![image](https://github.com/user-attachments/assets/e1a15ba5-0293-438d-91ce-475aa39dc86a)|
 
 ---
 
