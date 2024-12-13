@@ -382,7 +382,7 @@ int main() {
 ```
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/67f537a5-31d5-41e1-aea3-468f01c01153)|![image](https://github.com/user-attachments/assets/0b6f88dd-223e-4b3f-baa9-298e9d9abfac)|![image](https://github.com/user-attachments/assets/18855291-282e-4d25-ab4b-f4c3d8dd716b)|
 
 ---
 
@@ -448,7 +448,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/1808b1b7-5257-414e-b4a8-92f886ef935b)|![image](https://github.com/user-attachments/assets/88b0c36d-bddb-487c-9179-8690f927d4b4)|![image](https://github.com/user-attachments/assets/f05033df-4522-4085-ab45-8de59010d1c4)|
 
 ---
 
@@ -505,7 +505,7 @@ int main() {
 
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/fa86dc41-1ada-45ad-bdd6-fb3cc6d8726f)|![image](https://github.com/user-attachments/assets/52e32824-65a8-4e8c-a344-432c3a59b5ff)|![image](https://github.com/user-attachments/assets/6d437bbd-edb9-4e1e-a808-c23192a5a085)|
 
 ---
 
@@ -550,7 +550,9 @@ int main() {
 }
 ```
 
-
+|output 1| output 2| output 3|
+|------------|------------|------------|
+|![image](https://github.com/user-attachments/assets/77ed685e-076e-4bb6-9c32-46856cc77971)|![image](https://github.com/user-attachments/assets/1ddaac3e-c9c3-4b36-a7d0-ee0284b50282)|![image](https://github.com/user-attachments/assets/e4e2e734-6b53-45bd-aeea-8768bfa0a774)|
 ---
 
 ### [Program 11: Graph Traversal: BFS and DFS](Codes/program_11.c)
@@ -615,7 +617,7 @@ int main() {
 ```
 |output 1| output 2| output 3|
 |------------|------------|------------|
-||||
+|![image](https://github.com/user-attachments/assets/d0db7a08-9139-4546-9585-fbb9263fcf67)|![image](https://github.com/user-attachments/assets/3e0210c8-5af9-43d9-adcc-68cdf2c3d8ba)|![image](https://github.com/user-attachments/assets/599e9b02-4d3b-498d-ad2c-dc3f017c59b6)|
 
 ---
 
