@@ -1,6 +1,3 @@
-Certainly! Below is the entire report formatted according to the specified guidelines:
-
----
 
 **A SYNOPSIS ON**
 
