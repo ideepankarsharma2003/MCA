@@ -1,10 +1,6 @@
 
 # **MCA: Semester 03**
 
-## `Time Table`<br>
-
-                                                                                   |                                                                                        |                                                                                     |                                                                            |
-
 ## `Assignments`<br>
 - [Assignment](<Assignments>)
 
