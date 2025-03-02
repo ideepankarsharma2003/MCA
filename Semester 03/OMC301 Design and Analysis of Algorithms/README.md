@@ -1,5 +1,3 @@
-## **Detailed Notes with Time/Space Complexity and C Programs**
-
 # **Design and Analysis of Algorithms Laboratory (OMC307)**  
 ### **Master of Computer Applications (MCA) - Semester III**  
 
@@ -187,9 +185,7 @@ int main() {
 }
 ```
 
----
 
-Here is the continuation of **detailed notes, time/space complexity, and C programs** for the remaining algorithms:
 
 ---
 
