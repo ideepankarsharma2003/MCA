@@ -78,7 +78,9 @@ void kruskals(int num, int e)
 	{
 		printf("The spanning tree edges are :\n");
 		for(i=1;i<num;i++)
-			printf("%d %d %d \n", tree[i][1],tree[i][2],tree[i][3]);
+			// printf("%d %d %d \n", tree[i][1],tree[i][2],tree[i][3]);
+            printf("Edge %d: %d-%d || cost = %d\n", i, tree[i][1], tree[i][2], tree[i][3]);
+
 		printf("\n\n\n Minimun cost=%d",mincost);
 	}
 }
@@ -94,3 +96,26 @@ int main()
 	getch();
 	return 0;
 }
+
+
+/*
+4 5
+3 4 4
+1 4 5
+1 3 6
+1 2 10
+2 3 15
+
+*/
+
+/**
+5 7
+1 2 2
+1 3 3
+1 4 6
+2 3 5
+2 5 8
+3 4 7
+4 5 9
+
+ */

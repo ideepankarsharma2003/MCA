@@ -75,7 +75,9 @@ int prims(int num)
 	}
 	printf("The spanning tree edges and costs are :\n");
 	for(i=1;i<=num-1;i++)
-	   printf("Edge %d : %d %d cost = %d\n",i,tree[i][1],tree[i][2],tree[i][3]);
+	//    printf("Edge %d : %d %d cost = %d\n",i,tree[i][1],tree[i][2],tree[i][3]);
+    printf("Edge %d: %d-%d || cost = %d\n", i, tree[i][1], tree[i][2], tree[i][3]);
+
 	
 	printf("\n\n\n Minimun cost=%d",mincost);
 }
@@ -91,3 +93,25 @@ int main()
 	getch();
 	return 0;
 }
+
+/*
+4 5
+1 2 10
+1 3 6
+1 4 5
+2 3 15
+3 4 4
+
+*/
+
+/**
+5 7
+1 2 2
+1 3 3
+1 4 6
+2 3 5
+2 5 8
+3 4 7
+4 5 9
+
+ */
