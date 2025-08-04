@@ -1,0 +1,20 @@
+{
+  "name": "R + Jupyter Dev",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": [
+    "REditorSupport.r",
+    "Ikuyadeu.r",
+    "ms-toolsai.jupyter",
+    "ms-python.python"
+  ],
+  "mounts": [
+    "source=${localWorkspaceFolder}/notebooks,target=/home/rstudio/notebooks,type=bind",
+    "source=${localWorkspaceFolder}/data,target=/home/rstudio/data,type=bind"
+  ],
+  "remoteUser": "rstudio"
+}

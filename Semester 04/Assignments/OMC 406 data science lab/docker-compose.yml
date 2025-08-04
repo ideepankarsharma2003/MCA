@@ -1,0 +1,14 @@
+version: "3"
+services:
+  r_lab:
+    build: .
+    container_name: r_lab
+    ports:
+      - "8787:8787"
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/rstudio/notebooks
+      - ./data:/home/rstudio/data
+    environment:
+      - PASSWORD=rstudio
+    restart: unless-stopped
